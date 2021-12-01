@@ -1,0 +1,13 @@
+,classifier_name,dataset_name,accuracy
+0,Random Forest,ieee,0.5
+1,Random Forest,internal,1.0
+2,AdaptiveGB,ieee,0.571
+3,AdaptiveGB,internal,0.0
+4,Naive Bayes,ieee,0.571
+5,Naive Bayes,internal,0.0
+6,Decision Tree,ieee,0.5
+7,Decision Tree,internal,1.0
+8,KNeighbors,ieee,0.429
+9,KNeighbors,internal,0.0
+10,RBF SVM,ieee,0.214
+11,RBF SVM,internal,0.0

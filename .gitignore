@@ -1,0 +1,10 @@
+# jupyter
+*.ipynb_checkpoints
+notebook.ipynb
+notebook_copy.ipynb
+static_bot_script.py
+rdme.txt
+# VSCode
+.vscode
+
+david_au_customer_data.xlsx

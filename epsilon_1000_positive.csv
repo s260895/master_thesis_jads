@@ -1,0 +1,9 @@
+Customer Type,Business Unit,Equipment Type,Scorecard Type,Equipment Address,Postcode,asset_address_type_nominatim,asset_address_type_bing,asset_address_type_here,residential_address_flag,high_risk_postcode_flag,Equipment Cost,Actual,Predicted
+1.0e+1,1.8e+1,1.5e+2,3.e+0,5.4e+2,4.3e+2,3.1e+1,9.8e-2,2.2e+0,1.2e-3,-1.1e-2,-2.8e-1,\textcolor{green}{True},\textcolor{red}{False}
+1.0e+1,1.9e+1,1.2e+2,2.0e-2,1.5e+3,1.9e+2,-1.9e+0,5.9e+0,2.1e+0,2.6e-3,1.0e+0,5.2e-1,\textcolor{green}{True},\textcolor{green}{True}
+1.3e+1,1.8e+1,1.5e+2,-2.1e-1,2.8e+3,1.8e+2,2.8e+1,1.5e-1,2.e+0,-8.1e-4,-3.4e-2,2.5e-1,\textcolor{green}{True},\textcolor{red}{False}
+1.0e+1,2.2e+1,1.5e+2,-4.9e-2,9.3e+2,1.8e+2,4.1e+1,-2.4e-1,2.e+0,1.0e+0,1.e+0,-7.9e-2,\textcolor{green}{True},\textcolor{green}{True}
+1.0e+1,1.8e+1,2.4e+2,-1.0e-2,2.4e+3,3.6e+2,4.e+1,-5.8e-3,2.0e+0,1.0e+0,-4.5e-3,-9.5e-1,\textcolor{green}{True},\textcolor{red}{False}
+9.9e+0,7.1e+1,1.0e+2,2.9e+0,4.3e+3,1.3e+2,-1.7e-1,2.6e-2,1.9e+0,8.9e-3,2.0e-2,-4.6e-1,\textcolor{green}{True},\textcolor{red}{False}
+1.2e+1,1.2e+1,2.0e+2,1.3e-2,1.1e+3,6.4e+2,3.2e+1,-1.8e-1,2.e+0,1.1e-2,-7.5e-4,5.5e-1,\textcolor{green}{True},\textcolor{red}{False}
+1.1e+1,1.8e+1,1.5e+2,3.2e-2,3.4e+3,-7.0e+0,1.5e-1,9.5e-2,2.1e+0,-3.7e-2,9.7e-4,4.0e-1,\textcolor{green}{True},\textcolor{red}{False}

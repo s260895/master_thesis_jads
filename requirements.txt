@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+scipy
+diffprivlib
+geopy
+shap
+dtreeviz
+networkx
+joblib
+openpyxl
+jupyter

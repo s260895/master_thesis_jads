@@ -1,0 +1,19 @@
+services:
+  dashboard:
+    build: .
+    ports:
+      - "8501:8501"
+
+  # One-off: regenerate results/dp_sweep_results.csv (downloads the OpenML
+  # dataset into a named volume on first run).
+  #   docker compose --profile tools run --rm experiment
+  experiment:
+    build: .
+    profiles: ["tools"]
+    command: python -m src.experiment
+    volumes:
+      - ./results:/app/results
+      - openml-cache:/root/scikit_learn_data
+
+volumes:
+  openml-cache:
